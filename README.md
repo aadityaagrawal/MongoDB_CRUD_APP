@@ -35,9 +35,9 @@ To use the application, simply make a request to the appropriate route using a t
 
 This application has the following dependencies:
 
-    *express - A web framework for Node.js
-    *mongodb - A driver for connecting to MongoDB
-    *body-parser - A middleware for parsing request bodies
+* express - A web framework for Node.js
+* mongodb - A driver for connecting to MongoDB
+* body-parser - A middleware for parsing request bodies
 
 ### Contributing
 
